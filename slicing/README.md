@@ -1,4 +1,4 @@
-# Cura-Slicer Profile for Octoprint with BigBox (E3D)
+# Cura-Slicer Configuration
 
 ## Cura Configuration On Your PC or Mac
 In order to configure Cura on your Computer for printing with a E3D BigBox printer do the following:
